@@ -1,0 +1,9 @@
+public class MainClass {
+	
+	 public static void main(String[] args) {
+		 MyClass test1 = new MyClass("Test 1");
+		 MyClass test2 = new MyClass("Test 2");
+	        System.out.println(test1.toString());
+	        System.out.println(test2.toString());
+	    }
+}
